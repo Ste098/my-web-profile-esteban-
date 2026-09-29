@@ -105,7 +105,7 @@ const EN = {
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "Tolima, Colombia",
-  "about.labelEmail":     "sierke123@gmail.com",
+  "about.labelEmail":     "Email",
   "about.labelLanguages": "Languages",
   "about.valueLanguages": "Spanish (native) · English (B2)",
   "about.labelStatus":    "Availability",
