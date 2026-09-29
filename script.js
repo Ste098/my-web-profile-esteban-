@@ -150,9 +150,9 @@ const EN = {
   "contact.title":         "Contact",
   "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
   "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "[Your professional profile]",
+  "contact.linkedinValue": "...",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "Esteban David Gómez Serna · Professional Technician in Web Programming · UniEspinal"
 };
 
 
