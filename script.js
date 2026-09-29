@@ -27,7 +27,7 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "I'm currently coursing a vocational degree in web programming. I like to learn how to design websites, learning topics related to programming, also like listen to music and play videogames.I really enjoy taking new challenges with new software and techonologies.",
+  "about.text":           "Actualmente me estoy formando profesionalmente en programación web. Disfruto aprendiendo a diseñar sitios web y temas relacionados con la programación; también me gusta escuchar música y jugar a videojuegos. Me motiva enormemente asumir nuevos desafíos relacionados con el software y las tecnologías innovadoras.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "Tolima, Colombia",
