@@ -27,15 +27,13 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "I'm currently coursing a vocational degree in web programming. I like to learn how to
-        design websites, learning topics related to programming, also like listen to music and play videogames.
-        I really enjoy taking new challenges with new software and techonologies.",
+  "about.text":           "I'm currently coursing a vocational degree in web programming. I like to learn how to design websites, learning topics related to programming, also like listen to music and play videogames.I really enjoy taking new challenges with new software and techonologies.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "[Ciudad], Colombia",
+  "about.valueLocation":  "Tolima, Colombia",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
-  "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
+  "about.valueLanguages": "Español (nativo) · Inglés (B2)",
   "about.labelStatus":    "Disponibilidad",
   "about.valueStatus":    "Abierto a prácticas",
   "about.interestsTitle": "Intereses",
