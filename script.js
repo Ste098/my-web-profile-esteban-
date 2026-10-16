@@ -74,7 +74,7 @@ const ES = {
   "project.3.text":  "",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "Si estás buscando apoyo en este momento, escríbeme un mensaje directo y platicamos",
+  "contact.intro":         "Si estás buscando apoyo en este momento, escríbeme un mensaje directo y hablamos",
   "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "...",
 
