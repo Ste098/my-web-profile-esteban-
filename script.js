@@ -62,8 +62,8 @@ const ES = {
 
   "exp.1.title": "Proyecto institucional",
   "exp.1.text":  "Se realizo una calculadora de matrices, con dimension personalizada, donde se muestre Gauss Jordan y matriz inversa, con su procedimiento. Se realizó con JavaScript y PHP",
-  "exp.2.title": "Rol o tipo de proyecto",
-  "exp.2.text":  "Qué hiciste, con qué herramientas y qué resultado tuvo.",
+  "exp.2.title": "",
+  "exp.2.text":  "",
 
   "portfolio.title": "Proyectos",
   "project.1.title": "Calculadora de Matrices",
@@ -131,13 +131,13 @@ const EN = {
 
   "edu.1.title": "Professional Technician in Web Programming",
   "edu.1.text":  "Here, I learned the fundamentals of programming and everything about it components, modules, and applications.",
-  "edu.2.title": "....",
-  "edu.2.text":  "....",
+  "edu.2.title": "",
+  "edu.2.text":  "",
 
   "exp.1.title": "Institutional Project",
   "exp.1.text":  "A matrix calculator with customizable dimensions was developed, featuring Gauss-Jordan elimination and the calculation of the inverse matrix, along with the step-by-step procedure. It was built using JavaScript and PHP.",
-  "exp.2.title": "Role or type of project",
-  "exp.2.text":  "....",
+  "exp.2.title": "",
+  "exp.2.text":  "",
 
   "portfolio.title": "Projects",
   "project.1.title": "Matrix Calculator",
