@@ -57,13 +57,13 @@ const ES = {
 
   "edu.1.title": "Técnico Profesional en Programación Web",
   "edu.1.text":  "Aquí aprendí los fundamentos de la programación y todo lo relacionado con sus componentes, módulos y aplicaciones.",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.2.title": "Curso o certificación",
+  "edu.2.text":  "Qué aprendiste y para qué te sirve.",
 
   "exp.1.title": "Proyecto institucional",
   "exp.1.text":  "Se realizo una calculadora de matrices, con dimension personalizada, donde se muestre Gauss Jordan y matriz inversa, con su procedimiento. Se realizó con JavaScript y PHP",
-  "exp.2.title": "[Rol o tipo de proyecto]",
-  "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.2.title": "Rol o tipo de proyecto",
+  "exp.2.text":  "Qué hiciste, con qué herramientas y qué resultado tuvo.",
 
   "portfolio.title": "Proyectos",
   "project.1.title": "Calculadora de Matrices",
