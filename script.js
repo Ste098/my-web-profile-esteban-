@@ -131,8 +131,8 @@ const EN = {
 
   "edu.1.title": "Professional Technician in Web Programming",
   "edu.1.text":  "Here, I learned the fundamentals of programming and everything about it components, modules, and applications.",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.2.title": "....",
+  "edu.2.text":  "....",
 
   "exp.1.title": "Institutional Project",
   "exp.1.text":  "A matrix calculator with customizable dimensions was developed, featuring Gauss-Jordan elimination and the calculation of the inverse matrix, along with the step-by-step procedure. It was built using JavaScript and PHP.",
