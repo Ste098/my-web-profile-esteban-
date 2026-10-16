@@ -60,25 +60,25 @@ const ES = {
   "edu.2.title": "[Curso o certificación]",
   "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
 
-  "exp.1.title": "[Rol o tipo de proyecto]",
-  "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.1.title": "Proyecto institucional",
+  "exp.1.text":  "Se realizo una calculadora de matrices, con dimension personalizada, donde se muestre Gauss Jordan y matriz inversa, con su procedimiento. Se realizó con JavaScript y PHP",
   "exp.2.title": "[Rol o tipo de proyecto]",
   "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
 
   "portfolio.title": "Proyectos",
-  "project.1.title": "[Nombre del proyecto]",
-  "project.1.text":  "[Tecnologías usadas]",
-  "project.2.title": "[Nombre del proyecto]",
-  "project.2.text":  "[Tecnologías usadas]",
-  "project.3.title": "[Nombre del proyecto]",
-  "project.3.text":  "[Tecnologías usadas]",
+  "project.1.title": "Calculadora de Matrices",
+  "project.1.text":  "Javascript, PHP",
+  "project.2.title": "",
+  "project.2.text":  "",
+  "project.3.title": "",
+  "project.3.text":  "",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
+  "contact.intro":         "Si estás buscando apoyo en este momento, escríbeme un mensaje directo y platicamos",
   "contact.emailLabel":    "Correo",
-  "contact.linkedinValue": "[Tu perfil profesional]",
+  "contact.linkedinValue": "...",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Esteban Gómez · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
@@ -134,21 +134,21 @@ const EN = {
   "edu.2.title": "[Course or certificate]",
   "edu.2.text":  "[What you learned and how you use it.]",
 
-  "exp.1.title": "[Role or type of project]",
-  "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
-  "exp.2.title": "[Role or type of project]",
-  "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.1.title": "Institutional Project",
+  "exp.1.text":  "A matrix calculator with customizable dimensions was developed, featuring Gauss-Jordan elimination and the calculation of the inverse matrix, along with the step-by-step procedure. It was built using JavaScript and PHP.",
+  "exp.2.title": "Role or type of project",
+  "exp.2.text":  "....",
 
   "portfolio.title": "Projects",
-  "project.1.title": "[Project name]",
-  "project.1.text":  "[Technologies used]",
-  "project.2.title": "[Project name]",
-  "project.2.text":  "[Technologies used]",
-  "project.3.title": "[Project name]",
-  "project.3.text":  "[Technologies used]",
+  "project.1.title": "Matrix Calculator",
+  "project.1.text":  "JavaScript, PHP",
+  "project.2.title": "Project name",
+  "project.2.text":  "Technologies used",
+  "project.3.title": "Project name",
+  "project.3.text":  "Technologies used",
 
   "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
+  "contact.intro":         "If you’re looking for support right now, send me a direct message and let’s talk",
   "contact.emailLabel":    "Email",
   "contact.linkedinValue": "...",
 
