@@ -68,8 +68,8 @@ const ES = {
   "portfolio.title": "Proyectos",
   "project.1.title": "Calculadora de Matrices",
   "project.1.text":  "Javascript, PHP",
-  "project.2.title": "",
-  "project.2.text":  "",
+  "project.2.title": "Accesibility Validator (LUREMA)",
+  "project.2.text":  "PHP, Laravel, Scss, Javascript",
   "project.3.title": "",
   "project.3.text":  "",
 
