@@ -62,8 +62,8 @@ const ES = {
 
   "exp.1.title": "Proyecto institucional",
   "exp.1.text":  "Se realizo una calculadora de matrices, con dimension personalizada, donde se muestre Gauss Jordan y matriz inversa, con su procedimiento. Se realizó con JavaScript y PHP",
-  "exp.2.title": "Un programa que valida la accesibilidad de Nivel A (WCAG) en páginas web.",
-  "exp.2.text":  "",
+  "exp.2.title": "Proyecto como modalidad de grado",
+  "exp.2.text":  "Un programa que valida la accesibilidad de Nivel A (WCAG) en páginas web de la institucion, y páginas aparte",
 
   "portfolio.title": "Proyectos",
   "project.1.title": "Calculadora de Matrices",
@@ -136,8 +136,8 @@ const EN = {
 
   "exp.1.title": "Institutional Project",
   "exp.1.text":  "A matrix calculator with customizable dimensions was developed, featuring Gauss-Jordan elimination and the calculation of the inverse matrix, along with the step-by-step procedure. It was built using JavaScript and PHP.",
-  "exp.2.title": "A program that validates Level A accessibility (WCAG) on web pages.",
-  "exp.2.text":  "",
+  "exp.2.title": "Project as a degree requirement",
+  "exp.2.text":  "A program that validates Level A (WCAG) accessibility on the institution’s web pages, as well as on separate pages",
 
   "portfolio.title": "Projects",
   "project.1.title": "Matrix Calculator",
