@@ -27,7 +27,7 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "Actualmente me estoy formando profesionalmente en programación web. Disfruto aprendiendo a diseñar sitios web y temas relacionados con la programación; también me gusta escuchar música y jugar a videojuegos. Me motiva enormemente asumir nuevos desafíos relacionados con el software y las tecnologías innovadoras.",
+  "about.text":           "Actualmente me estoy formando profesionalmente en programación web. Disfruto aprendiendo a diseñar sitios web y temas relacionados con la programación; también me gusta escuchar música y jugar a videojuegos. Me motiva enormemente asumir nuevos desafíos relacionados con el software y las tecnologías innovadoras. He desarrollado mis habilidades de programación y he adquirido experiencia en la creación de proyectos web",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "Tolima, Colombia",
@@ -56,7 +56,7 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "Aquí aprendí los fundamentos de la programación y todo lo relacionado con sus componentes, módulos y aplicaciones.",
+  "edu.1.text":  "Aquí he aprendido los fundamentos de la programación, incluyendo sus componentes, módulos y aplicaciones.",
   "edu.2.title": "",
   "edu.2.text":  "",
 
@@ -101,7 +101,7 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "I am currently pursuing professional training in web programming. I enjoy learning how to design websites and topics related to programming; I also like listening to music and playing video games. I am truly motivated to take on new challenges involving software and innovative technologies.",
+  "about.text":           "I am currently pursuing professional training in web programming. I enjoy learning how to design websites and topics related to programming; I also like listening to music and playing video games. I am truly motivated to take on new challenges involving software and innovative technologies. I have developed my programming skills and have gained experience in creating web projects",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "Tolima, Colombia",
@@ -130,7 +130,7 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "Here, I learned the fundamentals of programming and everything about it components, modules, and applications.",
+  "edu.1.text":  "Here, I have learned the fundamentals of programming, including its components, modules, and applications.",
   "edu.2.title": "",
   "edu.2.text":  "",
 
